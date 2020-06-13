@@ -19,3 +19,4 @@ Base de conocimientos sobre comandos linux en español.
 - [node](node)
 - [k8s](k8s)
 - [vagrant](vagrant)
+- [screen](screen)
